@@ -36,10 +36,10 @@ education:
     - course: PhD in Civil and Environmental Engineering
       institution: University of Missouri
       year: 2023
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Power Engineering and Engineering Thermophysics
       institution: Beihang University
       year: 2018
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Heat Energy and Power Engineering
       institution: Nanjing University of Aeronautics and Astronautics
       year: 2015
 
